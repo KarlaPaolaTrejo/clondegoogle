@@ -28,4 +28,4 @@ Contiene las suigientes secciones:
 Aprender a utilizar las etiquetas de HTML5 y CSS3.
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado:[Clon de google](#)
+Aquí puedes visualizar mi proyecto terminado:[Clon de google](https://merry-pika-60b815.netlify.app)
